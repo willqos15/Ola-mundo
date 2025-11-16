@@ -35,7 +35,7 @@ __ para usar __negrito__
 - [ ] item a concluir
 
 ## Testando links
-[Clique aqui para abrir o Google] (https://www.google.com.br)
+[Clique aqui para abrir o Google](https://www.google.com.br)
 
 ## Tabela:
 Num | Nome | Nota
